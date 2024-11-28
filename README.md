@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpawar32&show_icons=true&locale=en&layout=compact" alt="varunpawar32" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunpawar32&show_icons=true&locale=en" alt="varunpawar32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunpawar32&" alt="varunpawar32" /></p>
