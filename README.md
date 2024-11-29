@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/varunpawar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunpawar32" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varunpawar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunpawar32" height="30" width="40" /></a>
+<a href="https://twitter.com/Varunpawar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varunpawar32" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/varun-pawar-71b8592b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varunpawar32" height="30" width="40" /></a>
 <a href="https://fb.com/varun pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun pawar" height="30" width="40" /></a>
-<a href="https://instagram.com/varunpawar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunpawar32" height="30" width="40" /></a>
+<a href="https://instagram.com/Varunpawar32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varunpawar32" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
